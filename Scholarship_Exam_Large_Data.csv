@@ -1,0 +1,1001 @@
+StudentID,Name,Age,Gender,PracticeExam1,PracticeExam2,PracticeExam3,AttendanceRate,ParentalEducation,PreviousScholarship,ScholarshipStatus
+1,Student_1,16.0,Male,84.0,74.0,53.0,84%,High School,No,No
+2,Student_2,16.0,Male,64.0,88.0,,91%,,Yes,No
+3,Student_3,18.0,Male,95.0,98.0,95.0,93%,,No,Yes
+4,Student_4,17.0,Male,79.0,75.0,87.0,,Master's,No,No
+5,Student_5,17.0,Female,85.0,68.0,94.0,,,No,Yes
+6,Student_6,17.0,Male,76.0,58.0,89.0,,Master's,No,Yes
+7,Student_7,16.0,Male,58.0,88.0,71.0,88%,High School,No,No
+8,Student_8,16.0,Male,66.0,97.0,95.0,89%,High School,Yes,Yes
+9,Student_9,,Male,91.0,94.0,84.0,93%,High School,Yes,Yes
+10,Student_10,16.0,Male,,70.0,,86%,High School,No,No
+11,Student_11,16.0,Male,73.0,85.0,98.0,77%,High School,Yes,Yes
+12,Student_12,16.0,Male,,62.0,58.0,75%,,Yes,Yes
+13,Student_13,17.0,Female,62.0,95.0,,96%,Bachelor's,Yes,Yes
+14,Student_14,17.0,Male,,72.0,94.0,100%,High School,Yes,Yes
+15,Student_15,16.0,Male,88.0,58.0,79.0,87%,,No,No
+16,Student_16,17.0,Female,54.0,91.0,91.0,,Master's,No,No
+17,Student_17,,Male,98.0,61.0,79.0,97%,High School,No,No
+18,Student_18,17.0,Male,92.0,94.0,64.0,93%,Bachelor's,Yes,Yes
+19,Student_19,,Female,80.0,95.0,89.0,99%,,No,No
+20,Student_20,18.0,Male,71.0,72.0,73.0,94%,,Yes,No
+21,Student_21,16.0,Male,50.0,87.0,94.0,85%,,No,Yes
+22,Student_22,17.0,Male,62.0,92.0,71.0,100%,Master's,Yes,Yes
+23,Student_23,,Male,57.0,93.0,70.0,80%,Bachelor's,No,No
+24,Student_24,18.0,Male,98.0,84.0,51.0,,High School,Yes,No
+25,Student_25,18.0,Female,65.0,77.0,,83%,Master's,No,No
+26,Student_26,17.0,Male,95.0,83.0,80.0,78%,High School,Yes,No
+27,Student_27,17.0,Female,65.0,74.0,60.0,75%,Bachelor's,No,No
+28,Student_28,18.0,Male,99.0,92.0,72.0,,,Yes,No
+29,Student_29,16.0,Male,79.0,,58.0,80%,High School,No,No
+30,Student_30,16.0,Female,72.0,100.0,75.0,89%,,No,Yes
+31,Student_31,,Male,73.0,68.0,100.0,96%,,Yes,Yes
+32,Student_32,16.0,Male,81.0,59.0,85.0,94%,High School,No,No
+33,Student_33,18.0,Female,96.0,94.0,100.0,84%,High School,Yes,Yes
+34,Student_34,18.0,Male,70.0,63.0,79.0,94%,Bachelor's,Yes,No
+35,Student_35,18.0,Male,73.0,52.0,76.0,96%,High School,Yes,Yes
+36,Student_36,16.0,Female,52.0,78.0,65.0,96%,Bachelor's,Yes,Yes
+37,Student_37,,Female,64.0,93.0,80.0,84%,Bachelor's,No,Yes
+38,Student_38,16.0,Female,51.0,64.0,71.0,,High School,No,Yes
+39,Student_39,,Male,87.0,85.0,94.0,81%,,Yes,No
+40,Student_40,16.0,Female,76.0,82.0,100.0,75%,Master's,No,No
+41,Student_41,18.0,Male,62.0,94.0,86.0,81%,High School,Yes,Yes
+42,Student_42,18.0,Male,74.0,92.0,84.0,81%,High School,Yes,No
+43,Student_43,17.0,Female,65.0,,61.0,79%,Bachelor's,Yes,Yes
+44,Student_44,16.0,Female,91.0,76.0,54.0,88%,Bachelor's,Yes,Yes
+45,Student_45,16.0,Male,71.0,93.0,95.0,100%,Bachelor's,No,No
+46,Student_46,17.0,Male,81.0,85.0,81.0,77%,High School,Yes,Yes
+47,Student_47,18.0,Female,91.0,,88.0,89%,Master's,Yes,Yes
+48,Student_48,16.0,Female,79.0,62.0,85.0,88%,High School,Yes,Yes
+49,Student_49,17.0,Female,100.0,99.0,,,High School,Yes,No
+50,Student_50,16.0,Male,58.0,78.0,69.0,79%,High School,No,Yes
+51,Student_51,,Female,81.0,90.0,54.0,89%,Master's,Yes,Yes
+52,Student_52,18.0,Female,84.0,91.0,93.0,90%,Master's,Yes,No
+53,Student_53,,Male,53.0,87.0,99.0,,Bachelor's,No,No
+54,Student_54,18.0,Male,54.0,88.0,70.0,82%,,No,No
+55,Student_55,17.0,Female,92.0,96.0,92.0,93%,High School,Yes,No
+56,Student_56,18.0,Male,,68.0,,87%,Bachelor's,Yes,Yes
+57,Student_57,18.0,Male,,93.0,58.0,,Master's,Yes,No
+58,Student_58,17.0,Male,90.0,,98.0,,High School,No,Yes
+59,Student_59,18.0,Female,95.0,97.0,50.0,97%,Master's,Yes,No
+60,Student_60,16.0,Female,63.0,74.0,92.0,88%,,Yes,Yes
+61,Student_61,17.0,Female,73.0,,84.0,98%,Bachelor's,No,No
+62,Student_62,17.0,Female,,66.0,89.0,98%,,No,Yes
+63,Student_63,17.0,Female,89.0,87.0,62.0,84%,Master's,Yes,No
+64,Student_64,,Female,92.0,50.0,70.0,,Master's,No,No
+65,Student_65,,Male,50.0,95.0,100.0,91%,Bachelor's,Yes,Yes
+66,Student_66,18.0,Male,76.0,52.0,69.0,94%,High School,Yes,Yes
+67,Student_67,17.0,Male,,70.0,77.0,90%,High School,Yes,No
+68,Student_68,18.0,Female,67.0,99.0,72.0,76%,Bachelor's,Yes,No
+69,Student_69,16.0,Female,68.0,89.0,87.0,88%,High School,Yes,No
+70,Student_70,17.0,Male,,69.0,,92%,Bachelor's,No,Yes
+71,Student_71,16.0,Female,93.0,86.0,75.0,,Bachelor's,Yes,No
+72,Student_72,18.0,Female,61.0,54.0,68.0,88%,Master's,Yes,Yes
+73,Student_73,,Female,56.0,70.0,,78%,Bachelor's,Yes,No
+74,Student_74,18.0,Female,65.0,61.0,53.0,95%,Bachelor's,No,No
+75,Student_75,16.0,Female,83.0,100.0,,97%,Bachelor's,No,Yes
+76,Student_76,17.0,Male,72.0,76.0,72.0,80%,Master's,Yes,No
+77,Student_77,18.0,Female,75.0,75.0,68.0,81%,Master's,Yes,No
+78,Student_78,17.0,Female,,,65.0,89%,Bachelor's,Yes,Yes
+79,Student_79,,Female,79.0,63.0,87.0,82%,,No,Yes
+80,Student_80,,Female,94.0,71.0,70.0,96%,High School,No,Yes
+81,Student_81,,Female,93.0,63.0,75.0,94%,Master's,Yes,No
+82,Student_82,17.0,Male,55.0,89.0,84.0,97%,Master's,No,Yes
+83,Student_83,18.0,Female,91.0,85.0,61.0,79%,,Yes,No
+84,Student_84,17.0,Male,55.0,91.0,62.0,98%,Bachelor's,No,No
+85,Student_85,17.0,Male,74.0,,73.0,88%,,Yes,No
+86,Student_86,18.0,Male,53.0,78.0,59.0,96%,,No,No
+87,Student_87,,Male,94.0,91.0,92.0,86%,High School,Yes,Yes
+88,Student_88,,Female,81.0,89.0,50.0,100%,Master's,No,Yes
+89,Student_89,18.0,Male,91.0,52.0,,80%,,Yes,No
+90,Student_90,17.0,Female,86.0,70.0,,84%,Bachelor's,Yes,No
+91,Student_91,17.0,Male,56.0,100.0,81.0,77%,Bachelor's,No,Yes
+92,Student_92,,Male,52.0,74.0,58.0,79%,High School,No,No
+93,Student_93,16.0,Female,94.0,96.0,,80%,Master's,No,Yes
+94,Student_94,16.0,Male,80.0,83.0,76.0,78%,Bachelor's,No,Yes
+95,Student_95,16.0,Female,54.0,73.0,100.0,90%,Master's,Yes,No
+96,Student_96,17.0,Female,67.0,82.0,77.0,81%,Bachelor's,Yes,Yes
+97,Student_97,17.0,Female,86.0,52.0,79.0,75%,,No,Yes
+98,Student_98,,Male,61.0,91.0,85.0,83%,Bachelor's,Yes,Yes
+99,Student_99,16.0,Female,70.0,82.0,74.0,80%,Master's,Yes,No
+100,Student_100,,Female,,,61.0,91%,,Yes,No
+101,Student_101,,Female,59.0,,50.0,,,Yes,No
+102,Student_102,,Male,95.0,99.0,96.0,,High School,No,Yes
+103,Student_103,18.0,Male,54.0,50.0,82.0,94%,Bachelor's,No,Yes
+104,Student_104,16.0,Male,86.0,63.0,84.0,92%,High School,No,Yes
+105,Student_105,16.0,Female,74.0,99.0,52.0,83%,Master's,Yes,No
+106,Student_106,18.0,Male,84.0,93.0,86.0,100%,High School,Yes,Yes
+107,Student_107,18.0,Male,98.0,56.0,73.0,76%,High School,No,Yes
+108,Student_108,16.0,Female,100.0,94.0,80.0,92%,,Yes,Yes
+109,Student_109,18.0,Female,96.0,97.0,55.0,79%,High School,Yes,Yes
+110,Student_110,,Male,,91.0,96.0,91%,Master's,Yes,No
+111,Student_111,17.0,Female,72.0,54.0,98.0,78%,High School,Yes,No
+112,Student_112,,Male,,59.0,79.0,89%,Master's,Yes,No
+113,Student_113,16.0,Female,54.0,,83.0,99%,Master's,Yes,Yes
+114,Student_114,18.0,Male,99.0,52.0,55.0,78%,Master's,No,No
+115,Student_115,17.0,Female,88.0,,90.0,94%,Bachelor's,Yes,Yes
+116,Student_116,16.0,Male,99.0,,92.0,78%,Bachelor's,Yes,No
+117,Student_117,18.0,Male,90.0,85.0,,76%,Master's,Yes,Yes
+118,Student_118,17.0,Female,78.0,,87.0,80%,High School,No,No
+119,Student_119,17.0,Female,72.0,66.0,53.0,81%,High School,Yes,No
+120,Student_120,18.0,Female,74.0,78.0,84.0,80%,,Yes,Yes
+121,Student_121,17.0,Female,93.0,77.0,80.0,97%,Bachelor's,Yes,Yes
+122,Student_122,16.0,Male,74.0,74.0,80.0,91%,,Yes,Yes
+123,Student_123,18.0,Male,,84.0,71.0,78%,High School,No,No
+124,Student_124,,Male,65.0,,68.0,86%,High School,No,No
+125,Student_125,16.0,Female,55.0,54.0,52.0,79%,Bachelor's,No,No
+126,Student_126,16.0,Male,74.0,87.0,88.0,81%,Master's,Yes,No
+127,Student_127,18.0,Male,90.0,,96.0,88%,,Yes,No
+128,Student_128,18.0,Male,74.0,72.0,66.0,75%,High School,No,No
+129,Student_129,17.0,Male,56.0,56.0,,100%,Master's,No,No
+130,Student_130,16.0,Male,,93.0,60.0,84%,Master's,No,Yes
+131,Student_131,17.0,Female,78.0,55.0,92.0,77%,Master's,No,Yes
+132,Student_132,16.0,Female,67.0,78.0,97.0,97%,High School,No,Yes
+133,Student_133,16.0,Female,55.0,92.0,68.0,86%,High School,No,Yes
+134,Student_134,,Female,78.0,,58.0,82%,Bachelor's,Yes,Yes
+135,Student_135,16.0,Male,82.0,64.0,100.0,99%,Master's,No,No
+136,Student_136,17.0,Female,51.0,75.0,58.0,100%,,Yes,No
+137,Student_137,17.0,Female,,84.0,67.0,100%,Bachelor's,Yes,No
+138,Student_138,,Female,88.0,90.0,50.0,88%,Master's,No,No
+139,Student_139,17.0,Male,70.0,93.0,88.0,91%,,No,No
+140,Student_140,18.0,Male,50.0,100.0,87.0,86%,,Yes,Yes
+141,Student_141,,Male,74.0,91.0,92.0,89%,Bachelor's,No,No
+142,Student_142,17.0,Male,96.0,50.0,61.0,75%,Master's,Yes,Yes
+143,Student_143,17.0,Male,65.0,85.0,94.0,91%,High School,Yes,Yes
+144,Student_144,18.0,Male,60.0,52.0,61.0,77%,Bachelor's,No,No
+145,Student_145,,Female,60.0,,52.0,87%,Bachelor's,No,No
+146,Student_146,18.0,Female,69.0,84.0,55.0,80%,Bachelor's,No,No
+147,Student_147,,Female,59.0,55.0,88.0,87%,,No,Yes
+148,Student_148,,Female,,97.0,59.0,96%,Master's,No,No
+149,Student_149,16.0,Female,76.0,96.0,98.0,79%,High School,No,No
+150,Student_150,17.0,Female,100.0,76.0,99.0,76%,Master's,Yes,No
+151,Student_151,17.0,Female,,82.0,92.0,97%,Bachelor's,No,No
+152,Student_152,16.0,Male,65.0,61.0,90.0,91%,,No,No
+153,Student_153,18.0,Male,81.0,66.0,86.0,88%,,Yes,Yes
+154,Student_154,16.0,Female,62.0,61.0,72.0,96%,Bachelor's,No,Yes
+155,Student_155,17.0,Female,58.0,86.0,,84%,,No,Yes
+156,Student_156,17.0,Male,75.0,98.0,57.0,85%,Master's,Yes,Yes
+157,Student_157,16.0,Female,89.0,85.0,,75%,,No,No
+158,Student_158,16.0,Female,71.0,85.0,80.0,91%,Master's,Yes,No
+159,Student_159,16.0,Female,77.0,,97.0,79%,Master's,Yes,No
+160,Student_160,17.0,Male,91.0,66.0,84.0,89%,,No,Yes
+161,Student_161,16.0,Male,58.0,,93.0,92%,Bachelor's,No,No
+162,Student_162,16.0,Female,88.0,81.0,80.0,94%,Master's,No,No
+163,Student_163,18.0,Male,62.0,72.0,83.0,97%,High School,No,Yes
+164,Student_164,16.0,Male,61.0,91.0,50.0,100%,Master's,No,Yes
+165,Student_165,17.0,Male,70.0,68.0,78.0,87%,,Yes,No
+166,Student_166,18.0,Female,94.0,62.0,70.0,84%,Master's,Yes,No
+167,Student_167,,Male,86.0,78.0,93.0,,High School,Yes,No
+168,Student_168,17.0,Male,70.0,92.0,56.0,87%,High School,No,No
+169,Student_169,17.0,Female,100.0,87.0,90.0,98%,High School,No,Yes
+170,Student_170,,Female,57.0,86.0,77.0,91%,Bachelor's,Yes,Yes
+171,Student_171,17.0,Female,62.0,70.0,91.0,84%,High School,No,No
+172,Student_172,,Male,84.0,60.0,71.0,91%,Bachelor's,Yes,No
+173,Student_173,,Male,99.0,,56.0,91%,High School,Yes,Yes
+174,Student_174,17.0,Female,96.0,64.0,87.0,95%,High School,Yes,Yes
+175,Student_175,16.0,Female,95.0,91.0,99.0,75%,Master's,No,No
+176,Student_176,16.0,Male,68.0,73.0,65.0,92%,,No,Yes
+177,Student_177,,Male,54.0,96.0,87.0,82%,High School,Yes,Yes
+178,Student_178,18.0,Female,100.0,80.0,83.0,84%,,No,Yes
+179,Student_179,,Male,93.0,72.0,94.0,91%,Bachelor's,Yes,Yes
+180,Student_180,,Female,90.0,81.0,70.0,76%,,Yes,Yes
+181,Student_181,,Male,66.0,61.0,93.0,83%,,No,Yes
+182,Student_182,16.0,Female,95.0,55.0,,86%,High School,Yes,Yes
+183,Student_183,16.0,Male,74.0,58.0,,99%,,No,Yes
+184,Student_184,16.0,Female,,62.0,83.0,78%,High School,Yes,No
+185,Student_185,,Male,80.0,90.0,78.0,93%,Bachelor's,No,Yes
+186,Student_186,18.0,Female,84.0,,96.0,89%,High School,No,No
+187,Student_187,16.0,Male,94.0,,62.0,82%,,Yes,Yes
+188,Student_188,17.0,Female,52.0,,,93%,Master's,Yes,No
+189,Student_189,17.0,Female,73.0,51.0,53.0,95%,Bachelor's,No,No
+190,Student_190,17.0,Female,84.0,87.0,92.0,94%,High School,No,No
+191,Student_191,,Female,55.0,87.0,63.0,84%,,Yes,Yes
+192,Student_192,17.0,Female,65.0,52.0,90.0,100%,Bachelor's,Yes,No
+193,Student_193,,Male,72.0,84.0,57.0,93%,Bachelor's,Yes,No
+194,Student_194,17.0,Female,89.0,84.0,,97%,Bachelor's,No,Yes
+195,Student_195,18.0,Male,,99.0,74.0,98%,High School,Yes,Yes
+196,Student_196,,Female,93.0,75.0,91.0,85%,Master's,No,No
+197,Student_197,17.0,Male,98.0,99.0,61.0,81%,Bachelor's,No,No
+198,Student_198,16.0,Female,100.0,68.0,94.0,86%,Master's,No,No
+199,Student_199,,Female,50.0,82.0,68.0,79%,High School,No,No
+200,Student_200,16.0,Male,,75.0,54.0,88%,,Yes,Yes
+201,Student_201,16.0,Female,97.0,50.0,67.0,,,Yes,Yes
+202,Student_202,16.0,Male,87.0,89.0,94.0,,,Yes,No
+203,Student_203,16.0,Male,64.0,98.0,99.0,90%,Bachelor's,No,Yes
+204,Student_204,17.0,Female,75.0,78.0,66.0,77%,Master's,No,No
+205,Student_205,17.0,Female,93.0,86.0,54.0,91%,High School,Yes,Yes
+206,Student_206,,Male,82.0,92.0,53.0,92%,Master's,No,Yes
+207,Student_207,,Female,51.0,59.0,71.0,87%,Bachelor's,No,Yes
+208,Student_208,,Female,68.0,80.0,66.0,93%,High School,Yes,No
+209,Student_209,17.0,Female,55.0,52.0,66.0,88%,Master's,Yes,Yes
+210,Student_210,,Male,96.0,81.0,54.0,97%,Master's,No,No
+211,Student_211,16.0,Female,69.0,66.0,62.0,90%,,Yes,No
+212,Student_212,17.0,Male,100.0,52.0,61.0,88%,Master's,No,No
+213,Student_213,,Male,80.0,83.0,56.0,79%,Master's,No,Yes
+214,Student_214,16.0,Male,56.0,73.0,99.0,90%,Bachelor's,Yes,No
+215,Student_215,,Male,94.0,79.0,89.0,79%,High School,Yes,Yes
+216,Student_216,18.0,Female,54.0,52.0,78.0,91%,,No,No
+217,Student_217,,Female,95.0,70.0,56.0,78%,Bachelor's,Yes,Yes
+218,Student_218,18.0,Male,71.0,83.0,,89%,Master's,Yes,No
+219,Student_219,,Male,93.0,67.0,,98%,High School,No,Yes
+220,Student_220,,Male,97.0,66.0,99.0,92%,,No,Yes
+221,Student_221,17.0,Male,61.0,86.0,81.0,78%,,Yes,Yes
+222,Student_222,17.0,Female,71.0,91.0,90.0,88%,High School,No,Yes
+223,Student_223,18.0,Male,79.0,87.0,,86%,Master's,Yes,Yes
+224,Student_224,17.0,Male,75.0,54.0,,76%,High School,Yes,No
+225,Student_225,16.0,Male,61.0,74.0,59.0,78%,,No,Yes
+226,Student_226,16.0,Male,77.0,64.0,75.0,86%,Master's,Yes,Yes
+227,Student_227,18.0,Male,97.0,72.0,82.0,90%,Master's,Yes,No
+228,Student_228,16.0,Female,62.0,72.0,99.0,,Master's,No,No
+229,Student_229,16.0,Female,77.0,80.0,77.0,100%,High School,Yes,Yes
+230,Student_230,,Female,95.0,50.0,96.0,76%,High School,No,No
+231,Student_231,17.0,Female,67.0,58.0,100.0,84%,Master's,No,Yes
+232,Student_232,16.0,Female,100.0,64.0,,81%,Bachelor's,No,No
+233,Student_233,16.0,Male,,,74.0,98%,,No,No
+234,Student_234,17.0,Female,84.0,63.0,99.0,78%,Master's,No,Yes
+235,Student_235,16.0,Male,70.0,60.0,86.0,77%,High School,No,Yes
+236,Student_236,16.0,Female,57.0,95.0,72.0,88%,High School,Yes,Yes
+237,Student_237,17.0,Female,81.0,92.0,69.0,84%,,No,Yes
+238,Student_238,,Female,90.0,71.0,90.0,85%,,No,Yes
+239,Student_239,16.0,Female,74.0,80.0,91.0,90%,Bachelor's,Yes,No
+240,Student_240,17.0,Male,87.0,80.0,,94%,High School,No,Yes
+241,Student_241,16.0,Female,72.0,60.0,71.0,79%,Bachelor's,No,No
+242,Student_242,16.0,Male,89.0,76.0,,89%,,No,Yes
+243,Student_243,,Female,93.0,,99.0,96%,High School,No,Yes
+244,Student_244,18.0,Female,69.0,,62.0,98%,,Yes,Yes
+245,Student_245,18.0,Female,87.0,60.0,52.0,100%,High School,No,No
+246,Student_246,17.0,Male,,82.0,92.0,94%,Bachelor's,Yes,No
+247,Student_247,18.0,Male,57.0,,94.0,82%,Master's,Yes,No
+248,Student_248,17.0,Female,57.0,53.0,56.0,85%,Bachelor's,Yes,Yes
+249,Student_249,18.0,Female,94.0,61.0,72.0,96%,,Yes,No
+250,Student_250,,Male,74.0,75.0,90.0,98%,,Yes,No
+251,Student_251,17.0,Male,58.0,86.0,62.0,77%,Master's,Yes,Yes
+252,Student_252,18.0,Female,77.0,96.0,62.0,97%,Master's,Yes,No
+253,Student_253,,Female,90.0,68.0,,,Master's,No,Yes
+254,Student_254,18.0,Male,91.0,63.0,65.0,99%,,No,No
+255,Student_255,16.0,Female,61.0,80.0,54.0,92%,Bachelor's,Yes,No
+256,Student_256,16.0,Male,81.0,60.0,91.0,95%,Master's,Yes,No
+257,Student_257,,Female,61.0,76.0,84.0,81%,High School,Yes,No
+258,Student_258,16.0,Female,78.0,100.0,78.0,92%,,Yes,No
+259,Student_259,16.0,Male,72.0,99.0,51.0,76%,,No,No
+260,Student_260,17.0,Male,81.0,92.0,,91%,Bachelor's,Yes,No
+261,Student_261,18.0,Female,74.0,60.0,,90%,Bachelor's,Yes,Yes
+262,Student_262,17.0,Male,82.0,71.0,52.0,75%,Master's,No,Yes
+263,Student_263,18.0,Female,76.0,88.0,63.0,92%,,Yes,Yes
+264,Student_264,16.0,Male,76.0,64.0,92.0,75%,High School,Yes,No
+265,Student_265,17.0,Male,78.0,58.0,93.0,81%,Master's,Yes,No
+266,Student_266,18.0,Male,55.0,62.0,84.0,97%,Bachelor's,No,No
+267,Student_267,18.0,Male,100.0,82.0,87.0,93%,High School,Yes,No
+268,Student_268,17.0,Female,68.0,59.0,54.0,100%,Bachelor's,No,Yes
+269,Student_269,,Female,,61.0,,85%,Master's,No,No
+270,Student_270,18.0,Male,68.0,89.0,91.0,76%,High School,No,Yes
+271,Student_271,16.0,Female,79.0,100.0,,75%,Bachelor's,No,Yes
+272,Student_272,18.0,Female,99.0,98.0,89.0,80%,,Yes,No
+273,Student_273,16.0,Female,85.0,80.0,,91%,,Yes,No
+274,Student_274,17.0,Female,86.0,88.0,58.0,83%,Master's,No,Yes
+275,Student_275,18.0,Female,99.0,50.0,,,High School,Yes,No
+276,Student_276,16.0,Female,73.0,99.0,69.0,92%,Bachelor's,Yes,No
+277,Student_277,16.0,Male,98.0,77.0,56.0,79%,Bachelor's,No,Yes
+278,Student_278,17.0,Female,,73.0,60.0,99%,,Yes,No
+279,Student_279,18.0,Male,84.0,94.0,54.0,,Master's,No,No
+280,Student_280,18.0,Female,77.0,64.0,56.0,88%,High School,No,No
+281,Student_281,17.0,Male,91.0,80.0,88.0,76%,,Yes,Yes
+282,Student_282,18.0,Female,69.0,74.0,64.0,85%,,Yes,Yes
+283,Student_283,17.0,Female,52.0,97.0,,97%,,No,No
+284,Student_284,18.0,Female,72.0,94.0,71.0,,Bachelor's,No,No
+285,Student_285,,Male,55.0,77.0,97.0,85%,Master's,No,Yes
+286,Student_286,18.0,Female,57.0,80.0,70.0,85%,,No,No
+287,Student_287,16.0,Male,65.0,55.0,93.0,78%,,No,Yes
+288,Student_288,16.0,Male,97.0,84.0,58.0,,Bachelor's,Yes,No
+289,Student_289,,Female,72.0,62.0,100.0,94%,High School,Yes,No
+290,Student_290,18.0,Female,89.0,,52.0,90%,High School,No,No
+291,Student_291,16.0,Female,60.0,50.0,71.0,91%,High School,No,No
+292,Student_292,16.0,Male,100.0,57.0,,78%,Bachelor's,Yes,No
+293,Student_293,18.0,Male,63.0,74.0,98.0,85%,Bachelor's,No,No
+294,Student_294,17.0,Female,86.0,94.0,94.0,88%,Master's,Yes,No
+295,Student_295,18.0,Female,67.0,76.0,60.0,,High School,Yes,No
+296,Student_296,17.0,Female,60.0,59.0,87.0,,Bachelor's,Yes,No
+297,Student_297,,Male,95.0,87.0,,75%,High School,Yes,Yes
+298,Student_298,,Male,86.0,84.0,,93%,Master's,No,No
+299,Student_299,16.0,Female,82.0,73.0,89.0,82%,,Yes,No
+300,Student_300,16.0,Female,93.0,93.0,60.0,95%,High School,Yes,Yes
+301,Student_301,16.0,Male,58.0,63.0,,84%,,Yes,No
+302,Student_302,17.0,Female,100.0,100.0,50.0,89%,,Yes,Yes
+303,Student_303,16.0,Female,53.0,61.0,,,Master's,No,No
+304,Student_304,18.0,Male,91.0,85.0,95.0,81%,Master's,No,No
+305,Student_305,17.0,Male,58.0,69.0,68.0,79%,,Yes,No
+306,Student_306,,Female,95.0,99.0,100.0,80%,High School,No,Yes
+307,Student_307,17.0,Female,65.0,97.0,94.0,92%,,Yes,Yes
+308,Student_308,16.0,Male,93.0,92.0,59.0,92%,Bachelor's,No,Yes
+309,Student_309,18.0,Male,59.0,64.0,83.0,75%,Bachelor's,Yes,Yes
+310,Student_310,18.0,Male,67.0,94.0,65.0,94%,Bachelor's,No,No
+311,Student_311,16.0,Male,74.0,56.0,89.0,80%,Bachelor's,No,Yes
+312,Student_312,18.0,Male,90.0,75.0,88.0,,Master's,No,Yes
+313,Student_313,17.0,Female,99.0,85.0,81.0,90%,High School,Yes,Yes
+314,Student_314,17.0,Male,,93.0,55.0,83%,Master's,Yes,No
+315,Student_315,16.0,Male,67.0,60.0,100.0,87%,Bachelor's,Yes,Yes
+316,Student_316,18.0,Female,73.0,90.0,76.0,95%,,Yes,No
+317,Student_317,,Male,81.0,,,91%,Bachelor's,No,No
+318,Student_318,17.0,Female,50.0,,57.0,80%,,No,Yes
+319,Student_319,17.0,Male,96.0,88.0,56.0,93%,High School,No,Yes
+320,Student_320,17.0,Male,,54.0,98.0,,Bachelor's,Yes,Yes
+321,Student_321,17.0,Male,90.0,73.0,82.0,,Bachelor's,No,No
+322,Student_322,,Male,72.0,,99.0,79%,Bachelor's,Yes,Yes
+323,Student_323,16.0,Female,100.0,,63.0,83%,Bachelor's,Yes,Yes
+324,Student_324,17.0,Male,63.0,75.0,62.0,81%,High School,No,No
+325,Student_325,18.0,Female,63.0,83.0,59.0,100%,Bachelor's,No,Yes
+326,Student_326,,Female,70.0,88.0,80.0,96%,,Yes,No
+327,Student_327,17.0,Male,71.0,,60.0,95%,High School,No,Yes
+328,Student_328,18.0,Female,58.0,61.0,52.0,99%,Master's,Yes,No
+329,Student_329,17.0,Female,81.0,78.0,,83%,Bachelor's,Yes,No
+330,Student_330,16.0,Female,93.0,,63.0,85%,Bachelor's,No,No
+331,Student_331,,Male,52.0,83.0,71.0,89%,,Yes,Yes
+332,Student_332,16.0,Male,,52.0,98.0,85%,High School,Yes,Yes
+333,Student_333,,Female,79.0,82.0,56.0,,Bachelor's,Yes,Yes
+334,Student_334,17.0,Female,,64.0,84.0,95%,High School,Yes,Yes
+335,Student_335,17.0,Male,60.0,93.0,100.0,94%,High School,No,Yes
+336,Student_336,,Female,50.0,,,75%,,Yes,Yes
+337,Student_337,18.0,Female,77.0,50.0,54.0,88%,,No,No
+338,Student_338,18.0,Female,94.0,55.0,96.0,97%,Master's,Yes,No
+339,Student_339,17.0,Female,91.0,99.0,87.0,99%,Bachelor's,No,Yes
+340,Student_340,17.0,Female,67.0,92.0,62.0,77%,Bachelor's,No,Yes
+341,Student_341,16.0,Female,,87.0,70.0,95%,Master's,No,No
+342,Student_342,17.0,Male,55.0,50.0,57.0,92%,,No,No
+343,Student_343,,Male,91.0,54.0,56.0,,,Yes,Yes
+344,Student_344,18.0,Male,75.0,85.0,76.0,96%,High School,Yes,Yes
+345,Student_345,18.0,Female,96.0,85.0,74.0,78%,,No,Yes
+346,Student_346,16.0,Male,64.0,72.0,54.0,87%,High School,No,Yes
+347,Student_347,18.0,Female,55.0,67.0,81.0,86%,Master's,Yes,No
+348,Student_348,18.0,Female,50.0,62.0,,99%,High School,Yes,Yes
+349,Student_349,,Male,54.0,75.0,63.0,75%,Master's,No,No
+350,Student_350,18.0,Male,64.0,66.0,79.0,86%,Master's,No,No
+351,Student_351,16.0,Female,78.0,82.0,73.0,89%,Master's,No,Yes
+352,Student_352,16.0,Male,,54.0,96.0,,Master's,Yes,No
+353,Student_353,18.0,Male,57.0,71.0,72.0,99%,,No,Yes
+354,Student_354,17.0,Female,77.0,82.0,62.0,97%,Bachelor's,No,Yes
+355,Student_355,18.0,Female,80.0,84.0,52.0,77%,Master's,No,Yes
+356,Student_356,16.0,Male,,86.0,53.0,95%,High School,Yes,No
+357,Student_357,16.0,Female,96.0,78.0,57.0,97%,Bachelor's,Yes,Yes
+358,Student_358,,Male,56.0,86.0,79.0,90%,High School,No,Yes
+359,Student_359,18.0,Male,69.0,65.0,98.0,76%,High School,No,Yes
+360,Student_360,18.0,Female,99.0,99.0,68.0,97%,High School,Yes,Yes
+361,Student_361,,Female,58.0,79.0,100.0,81%,Master's,No,No
+362,Student_362,16.0,Male,93.0,51.0,89.0,,Bachelor's,Yes,Yes
+363,Student_363,,Female,83.0,66.0,86.0,95%,Master's,No,No
+364,Student_364,17.0,Male,89.0,,64.0,83%,,Yes,No
+365,Student_365,18.0,Female,78.0,64.0,,90%,Master's,No,No
+366,Student_366,16.0,Female,63.0,64.0,81.0,81%,High School,No,Yes
+367,Student_367,,Male,59.0,76.0,63.0,93%,,No,No
+368,Student_368,16.0,Female,89.0,83.0,79.0,94%,Bachelor's,Yes,No
+369,Student_369,17.0,Male,63.0,94.0,96.0,77%,Master's,Yes,No
+370,Student_370,18.0,Female,,65.0,65.0,98%,,Yes,Yes
+371,Student_371,,Male,98.0,75.0,77.0,,Master's,Yes,Yes
+372,Student_372,16.0,Male,96.0,71.0,87.0,93%,Master's,Yes,No
+373,Student_373,18.0,Female,77.0,,86.0,91%,Master's,Yes,No
+374,Student_374,18.0,Male,58.0,80.0,76.0,83%,High School,Yes,No
+375,Student_375,16.0,Female,91.0,63.0,52.0,96%,High School,Yes,No
+376,Student_376,18.0,Male,,67.0,96.0,,High School,No,No
+377,Student_377,18.0,Male,88.0,97.0,52.0,96%,Bachelor's,Yes,Yes
+378,Student_378,,Male,68.0,62.0,75.0,83%,Master's,Yes,Yes
+379,Student_379,18.0,Female,94.0,62.0,94.0,89%,Master's,Yes,No
+380,Student_380,,Female,,65.0,78.0,,Master's,No,No
+381,Student_381,18.0,Male,69.0,63.0,55.0,96%,Master's,Yes,No
+382,Student_382,17.0,Female,88.0,65.0,50.0,76%,Bachelor's,No,No
+383,Student_383,17.0,Female,97.0,72.0,76.0,85%,Master's,No,Yes
+384,Student_384,,Male,91.0,56.0,58.0,88%,Bachelor's,No,No
+385,Student_385,,Male,,55.0,65.0,96%,,Yes,Yes
+386,Student_386,17.0,Male,65.0,92.0,55.0,90%,High School,Yes,No
+387,Student_387,18.0,Female,57.0,50.0,,99%,High School,No,No
+388,Student_388,,Male,90.0,84.0,60.0,,Bachelor's,No,No
+389,Student_389,16.0,Male,83.0,80.0,86.0,76%,High School,Yes,Yes
+390,Student_390,18.0,Female,50.0,70.0,51.0,88%,High School,Yes,No
+391,Student_391,18.0,Male,70.0,86.0,79.0,85%,Bachelor's,Yes,Yes
+392,Student_392,17.0,Female,86.0,81.0,95.0,,Bachelor's,No,Yes
+393,Student_393,,Male,84.0,98.0,100.0,77%,,No,No
+394,Student_394,18.0,Female,98.0,67.0,90.0,100%,High School,No,Yes
+395,Student_395,,Male,99.0,98.0,90.0,,High School,Yes,No
+396,Student_396,,Male,,53.0,,97%,Master's,Yes,No
+397,Student_397,,Male,50.0,77.0,74.0,77%,Master's,Yes,No
+398,Student_398,17.0,Female,52.0,84.0,71.0,81%,,No,Yes
+399,Student_399,,Female,100.0,,68.0,84%,Bachelor's,No,No
+400,Student_400,17.0,Male,68.0,93.0,67.0,,Bachelor's,Yes,No
+401,Student_401,16.0,Male,82.0,79.0,89.0,75%,High School,Yes,Yes
+402,Student_402,18.0,Female,77.0,94.0,100.0,100%,Bachelor's,No,Yes
+403,Student_403,18.0,Male,55.0,70.0,93.0,,Bachelor's,Yes,Yes
+404,Student_404,16.0,Male,84.0,50.0,,85%,,Yes,Yes
+405,Student_405,17.0,Male,67.0,74.0,97.0,82%,Master's,Yes,Yes
+406,Student_406,18.0,Female,,70.0,82.0,82%,Master's,No,No
+407,Student_407,17.0,Female,,66.0,93.0,76%,Master's,No,Yes
+408,Student_408,17.0,Male,59.0,66.0,53.0,91%,,Yes,Yes
+409,Student_409,17.0,Female,75.0,80.0,73.0,77%,High School,Yes,Yes
+410,Student_410,16.0,Male,98.0,71.0,52.0,94%,,No,No
+411,Student_411,16.0,Female,93.0,81.0,61.0,78%,High School,No,No
+412,Student_412,17.0,Male,69.0,76.0,95.0,93%,,No,Yes
+413,Student_413,,Male,96.0,73.0,,76%,,Yes,Yes
+414,Student_414,16.0,Female,65.0,75.0,63.0,87%,High School,Yes,No
+415,Student_415,,Male,,61.0,71.0,97%,Bachelor's,No,No
+416,Student_416,,Male,,86.0,57.0,,Master's,Yes,No
+417,Student_417,17.0,Female,79.0,56.0,97.0,100%,Bachelor's,Yes,No
+418,Student_418,,Female,53.0,65.0,87.0,84%,Master's,Yes,No
+419,Student_419,,Male,97.0,74.0,94.0,88%,High School,No,Yes
+420,Student_420,,Female,61.0,97.0,97.0,,High School,No,Yes
+421,Student_421,17.0,Female,95.0,50.0,70.0,92%,Bachelor's,Yes,No
+422,Student_422,17.0,Female,50.0,81.0,67.0,,,No,No
+423,Student_423,16.0,Male,72.0,90.0,77.0,87%,,Yes,Yes
+424,Student_424,16.0,Female,100.0,96.0,54.0,,High School,No,No
+425,Student_425,,Male,66.0,81.0,78.0,82%,Bachelor's,Yes,Yes
+426,Student_426,17.0,Female,58.0,85.0,83.0,100%,,Yes,No
+427,Student_427,17.0,Male,67.0,53.0,80.0,75%,,Yes,No
+428,Student_428,,Male,57.0,94.0,93.0,89%,,No,No
+429,Student_429,16.0,Female,51.0,63.0,68.0,94%,,Yes,Yes
+430,Student_430,17.0,Male,77.0,80.0,73.0,85%,Master's,Yes,No
+431,Student_431,16.0,Male,54.0,56.0,94.0,96%,Bachelor's,Yes,No
+432,Student_432,,Female,86.0,71.0,54.0,89%,Bachelor's,Yes,No
+433,Student_433,17.0,Female,81.0,73.0,79.0,93%,High School,Yes,Yes
+434,Student_434,,Male,73.0,66.0,,78%,Bachelor's,No,Yes
+435,Student_435,18.0,Female,,76.0,61.0,,Bachelor's,No,No
+436,Student_436,,Female,60.0,93.0,54.0,93%,High School,No,Yes
+437,Student_437,,Male,66.0,62.0,67.0,81%,,No,No
+438,Student_438,,Male,86.0,91.0,59.0,79%,Master's,No,Yes
+439,Student_439,17.0,Male,57.0,61.0,63.0,83%,Master's,No,Yes
+440,Student_440,,Female,82.0,68.0,90.0,90%,Bachelor's,No,Yes
+441,Student_441,,Male,,93.0,,89%,Master's,No,Yes
+442,Student_442,18.0,Female,50.0,99.0,93.0,79%,Master's,No,Yes
+443,Student_443,17.0,Male,80.0,55.0,58.0,76%,High School,No,Yes
+444,Student_444,18.0,Male,59.0,68.0,76.0,93%,Bachelor's,Yes,No
+445,Student_445,,Male,52.0,59.0,91.0,95%,Bachelor's,No,Yes
+446,Student_446,17.0,Male,95.0,90.0,,84%,High School,No,Yes
+447,Student_447,18.0,Female,76.0,71.0,51.0,92%,Bachelor's,No,No
+448,Student_448,,Female,65.0,89.0,64.0,79%,Master's,No,No
+449,Student_449,16.0,Female,96.0,54.0,83.0,94%,High School,Yes,Yes
+450,Student_450,18.0,Female,54.0,,76.0,86%,Bachelor's,No,No
+451,Student_451,17.0,Female,57.0,70.0,91.0,91%,Master's,Yes,Yes
+452,Student_452,18.0,Male,53.0,68.0,70.0,96%,Bachelor's,Yes,No
+453,Student_453,18.0,Male,83.0,88.0,92.0,82%,Master's,No,No
+454,Student_454,18.0,Female,75.0,67.0,85.0,92%,High School,Yes,Yes
+455,Student_455,16.0,Female,,99.0,69.0,88%,Bachelor's,Yes,No
+456,Student_456,17.0,Male,68.0,73.0,100.0,81%,Bachelor's,No,Yes
+457,Student_457,17.0,Female,69.0,83.0,100.0,81%,High School,No,No
+458,Student_458,17.0,Female,85.0,76.0,80.0,85%,High School,Yes,No
+459,Student_459,,Male,73.0,51.0,68.0,90%,Master's,Yes,No
+460,Student_460,17.0,Female,86.0,65.0,53.0,89%,Master's,No,No
+461,Student_461,17.0,Female,97.0,97.0,68.0,85%,Master's,No,No
+462,Student_462,16.0,Female,79.0,55.0,60.0,93%,High School,Yes,Yes
+463,Student_463,,Female,81.0,75.0,60.0,94%,Master's,Yes,Yes
+464,Student_464,,Female,99.0,54.0,68.0,85%,Bachelor's,Yes,No
+465,Student_465,18.0,Female,84.0,80.0,61.0,89%,,No,Yes
+466,Student_466,,Male,65.0,51.0,94.0,76%,Master's,Yes,No
+467,Student_467,,Female,76.0,83.0,100.0,75%,Master's,No,No
+468,Student_468,16.0,Female,,55.0,65.0,97%,High School,No,No
+469,Student_469,17.0,Female,90.0,89.0,70.0,94%,High School,Yes,No
+470,Student_470,,Female,50.0,91.0,78.0,90%,Master's,No,Yes
+471,Student_471,,Male,50.0,74.0,61.0,85%,Bachelor's,No,No
+472,Student_472,16.0,Female,74.0,65.0,95.0,87%,Master's,No,Yes
+473,Student_473,,Male,96.0,78.0,,80%,Bachelor's,No,Yes
+474,Student_474,,Female,63.0,58.0,72.0,75%,Master's,No,No
+475,Student_475,16.0,Male,65.0,60.0,78.0,77%,High School,No,Yes
+476,Student_476,18.0,Female,53.0,,60.0,92%,High School,No,No
+477,Student_477,18.0,Female,59.0,70.0,57.0,84%,,Yes,No
+478,Student_478,,Male,55.0,79.0,75.0,95%,Master's,Yes,Yes
+479,Student_479,,Male,,84.0,99.0,99%,Bachelor's,No,Yes
+480,Student_480,17.0,Female,83.0,85.0,79.0,75%,,Yes,No
+481,Student_481,,Female,73.0,94.0,59.0,84%,Bachelor's,No,Yes
+482,Student_482,17.0,Female,97.0,87.0,,83%,Master's,No,Yes
+483,Student_483,18.0,Female,,90.0,82.0,85%,Master's,No,No
+484,Student_484,,Female,,86.0,95.0,82%,Bachelor's,No,Yes
+485,Student_485,,Male,75.0,90.0,68.0,75%,,Yes,Yes
+486,Student_486,16.0,Female,,69.0,98.0,83%,Bachelor's,Yes,Yes
+487,Student_487,,Female,77.0,80.0,86.0,75%,,No,No
+488,Student_488,18.0,Female,58.0,55.0,86.0,79%,Bachelor's,Yes,No
+489,Student_489,,Male,66.0,73.0,78.0,100%,,No,Yes
+490,Student_490,17.0,Female,75.0,59.0,57.0,85%,Master's,Yes,Yes
+491,Student_491,,Female,97.0,50.0,52.0,84%,Bachelor's,No,No
+492,Student_492,17.0,Female,78.0,98.0,85.0,86%,,Yes,Yes
+493,Student_493,16.0,Male,54.0,72.0,51.0,96%,High School,No,Yes
+494,Student_494,,Male,58.0,84.0,64.0,91%,,No,No
+495,Student_495,16.0,Female,87.0,,55.0,94%,Bachelor's,No,Yes
+496,Student_496,16.0,Female,56.0,98.0,88.0,97%,,Yes,No
+497,Student_497,,Male,79.0,50.0,87.0,,Bachelor's,No,Yes
+498,Student_498,17.0,Male,57.0,68.0,100.0,79%,Bachelor's,Yes,Yes
+499,Student_499,,Male,99.0,100.0,67.0,81%,Bachelor's,No,No
+500,Student_500,17.0,Female,69.0,,55.0,97%,,Yes,No
+501,Student_501,16.0,Male,57.0,76.0,78.0,94%,Bachelor's,Yes,No
+502,Student_502,18.0,Male,,77.0,55.0,95%,Master's,No,No
+503,Student_503,,Male,69.0,60.0,75.0,76%,High School,Yes,No
+504,Student_504,18.0,Male,94.0,91.0,70.0,93%,Master's,Yes,No
+505,Student_505,17.0,Female,63.0,74.0,82.0,92%,Bachelor's,No,No
+506,Student_506,,Female,70.0,55.0,92.0,79%,Bachelor's,No,Yes
+507,Student_507,18.0,Female,95.0,65.0,59.0,76%,,Yes,Yes
+508,Student_508,18.0,Male,72.0,89.0,77.0,83%,Bachelor's,No,Yes
+509,Student_509,,Male,53.0,93.0,73.0,91%,High School,No,Yes
+510,Student_510,18.0,Female,66.0,91.0,,90%,Bachelor's,Yes,Yes
+511,Student_511,,Female,61.0,67.0,69.0,77%,High School,Yes,No
+512,Student_512,18.0,Female,,54.0,85.0,100%,,No,Yes
+513,Student_513,16.0,Female,78.0,68.0,,77%,Bachelor's,Yes,No
+514,Student_514,,Male,85.0,79.0,78.0,87%,,No,Yes
+515,Student_515,16.0,Male,79.0,67.0,76.0,95%,,No,Yes
+516,Student_516,16.0,Female,100.0,81.0,68.0,86%,High School,Yes,No
+517,Student_517,18.0,Female,50.0,51.0,96.0,89%,Bachelor's,Yes,No
+518,Student_518,17.0,Female,,84.0,77.0,97%,High School,No,No
+519,Student_519,16.0,Female,64.0,,76.0,97%,High School,Yes,No
+520,Student_520,16.0,Male,75.0,68.0,87.0,90%,,Yes,Yes
+521,Student_521,16.0,Male,90.0,95.0,59.0,93%,,No,Yes
+522,Student_522,17.0,Male,55.0,50.0,80.0,100%,High School,Yes,Yes
+523,Student_523,17.0,Male,66.0,59.0,83.0,76%,High School,No,Yes
+524,Student_524,16.0,Female,54.0,,54.0,81%,High School,Yes,Yes
+525,Student_525,17.0,Female,,76.0,87.0,82%,High School,Yes,Yes
+526,Student_526,17.0,Male,,81.0,55.0,84%,Bachelor's,No,Yes
+527,Student_527,17.0,Female,78.0,79.0,,87%,Bachelor's,No,Yes
+528,Student_528,,Female,55.0,52.0,67.0,86%,High School,Yes,Yes
+529,Student_529,16.0,Female,71.0,98.0,85.0,77%,Master's,No,No
+530,Student_530,17.0,Male,79.0,53.0,86.0,77%,Bachelor's,No,Yes
+531,Student_531,,Female,,75.0,58.0,91%,High School,No,No
+532,Student_532,18.0,Female,77.0,,74.0,93%,High School,Yes,Yes
+533,Student_533,18.0,Male,75.0,62.0,81.0,,High School,No,Yes
+534,Student_534,17.0,Male,74.0,66.0,,85%,Master's,No,Yes
+535,Student_535,16.0,Male,61.0,50.0,87.0,89%,High School,No,No
+536,Student_536,17.0,Male,61.0,99.0,85.0,86%,Bachelor's,Yes,No
+537,Student_537,18.0,Female,78.0,74.0,64.0,85%,Bachelor's,No,No
+538,Student_538,16.0,Male,52.0,78.0,,75%,,No,No
+539,Student_539,16.0,Female,89.0,52.0,,82%,,Yes,No
+540,Student_540,18.0,Male,68.0,97.0,90.0,77%,Bachelor's,Yes,Yes
+541,Student_541,,Female,85.0,83.0,80.0,77%,Master's,No,Yes
+542,Student_542,,Female,55.0,63.0,92.0,91%,Master's,Yes,No
+543,Student_543,17.0,Male,58.0,93.0,76.0,95%,,No,No
+544,Student_544,16.0,Female,91.0,70.0,94.0,,Bachelor's,Yes,No
+545,Student_545,17.0,Female,83.0,96.0,51.0,82%,Bachelor's,No,No
+546,Student_546,16.0,Male,84.0,,67.0,,High School,No,No
+547,Student_547,18.0,Male,74.0,83.0,54.0,,Master's,Yes,No
+548,Student_548,16.0,Female,72.0,80.0,73.0,,High School,No,No
+549,Student_549,16.0,Male,100.0,62.0,86.0,81%,High School,No,Yes
+550,Student_550,18.0,Male,86.0,53.0,66.0,83%,High School,Yes,Yes
+551,Student_551,,Male,74.0,63.0,80.0,99%,High School,No,Yes
+552,Student_552,18.0,Male,51.0,65.0,57.0,83%,Master's,No,No
+553,Student_553,16.0,Male,64.0,70.0,96.0,94%,High School,Yes,Yes
+554,Student_554,18.0,Female,,,66.0,99%,,Yes,No
+555,Student_555,16.0,Male,67.0,87.0,53.0,92%,Bachelor's,No,No
+556,Student_556,,Female,,100.0,79.0,75%,High School,No,No
+557,Student_557,,Female,83.0,52.0,58.0,84%,Bachelor's,No,No
+558,Student_558,16.0,Female,87.0,94.0,53.0,100%,High School,No,Yes
+559,Student_559,,Male,60.0,88.0,76.0,87%,Bachelor's,No,No
+560,Student_560,18.0,Male,92.0,99.0,72.0,99%,,No,No
+561,Student_561,,Male,84.0,,,90%,,No,Yes
+562,Student_562,17.0,Female,97.0,55.0,90.0,99%,Bachelor's,No,Yes
+563,Student_563,,Female,,71.0,82.0,87%,Master's,No,No
+564,Student_564,17.0,Female,64.0,98.0,90.0,98%,Master's,No,No
+565,Student_565,18.0,Female,74.0,53.0,56.0,90%,Bachelor's,Yes,No
+566,Student_566,,Female,61.0,59.0,60.0,93%,,Yes,No
+567,Student_567,,Male,87.0,100.0,70.0,99%,High School,No,Yes
+568,Student_568,,Male,97.0,81.0,93.0,89%,,Yes,Yes
+569,Student_569,18.0,Female,87.0,85.0,67.0,77%,Bachelor's,Yes,No
+570,Student_570,18.0,Male,,98.0,94.0,81%,High School,No,No
+571,Student_571,17.0,Female,86.0,78.0,84.0,97%,Bachelor's,Yes,Yes
+572,Student_572,16.0,Female,86.0,51.0,59.0,89%,High School,No,Yes
+573,Student_573,18.0,Female,81.0,72.0,,92%,Master's,Yes,Yes
+574,Student_574,,Male,61.0,66.0,73.0,,Master's,No,No
+575,Student_575,17.0,Male,55.0,81.0,76.0,79%,High School,Yes,No
+576,Student_576,,Male,,85.0,60.0,98%,Master's,No,Yes
+577,Student_577,,Female,51.0,94.0,59.0,,High School,Yes,Yes
+578,Student_578,18.0,Male,50.0,86.0,62.0,86%,Master's,No,No
+579,Student_579,16.0,Male,89.0,72.0,85.0,88%,High School,Yes,No
+580,Student_580,,Male,58.0,79.0,83.0,99%,High School,No,Yes
+581,Student_581,18.0,Female,61.0,88.0,95.0,99%,Bachelor's,No,No
+582,Student_582,17.0,Male,70.0,85.0,98.0,84%,Bachelor's,Yes,No
+583,Student_583,,Male,,83.0,76.0,75%,,Yes,Yes
+584,Student_584,17.0,Female,95.0,68.0,54.0,76%,Master's,Yes,No
+585,Student_585,18.0,Male,99.0,84.0,58.0,79%,Bachelor's,No,Yes
+586,Student_586,18.0,Female,83.0,50.0,80.0,85%,,Yes,No
+587,Student_587,18.0,Female,54.0,82.0,94.0,100%,Bachelor's,No,No
+588,Student_588,18.0,Male,92.0,61.0,78.0,94%,Master's,Yes,No
+589,Student_589,18.0,Female,56.0,89.0,88.0,87%,Master's,No,Yes
+590,Student_590,16.0,Male,70.0,99.0,71.0,81%,Master's,No,No
+591,Student_591,17.0,Female,60.0,70.0,69.0,77%,High School,No,No
+592,Student_592,16.0,Male,77.0,92.0,,81%,Master's,Yes,Yes
+593,Student_593,17.0,Female,81.0,74.0,64.0,85%,,Yes,Yes
+594,Student_594,,Male,61.0,93.0,94.0,89%,Master's,Yes,No
+595,Student_595,,Male,85.0,85.0,64.0,84%,Master's,Yes,No
+596,Student_596,17.0,Male,89.0,68.0,63.0,,High School,Yes,No
+597,Student_597,,Male,64.0,91.0,55.0,92%,High School,No,Yes
+598,Student_598,,Female,61.0,56.0,98.0,97%,Bachelor's,Yes,No
+599,Student_599,,Male,96.0,54.0,54.0,75%,Bachelor's,Yes,Yes
+600,Student_600,16.0,Male,58.0,,,77%,Master's,Yes,Yes
+601,Student_601,16.0,Male,50.0,61.0,77.0,87%,Bachelor's,No,No
+602,Student_602,18.0,Male,86.0,62.0,,82%,,No,Yes
+603,Student_603,17.0,Female,99.0,62.0,100.0,91%,,Yes,Yes
+604,Student_604,,Male,52.0,,87.0,,,No,Yes
+605,Student_605,17.0,Female,70.0,74.0,,,High School,Yes,Yes
+606,Student_606,18.0,Male,89.0,83.0,66.0,80%,High School,Yes,Yes
+607,Student_607,18.0,Female,86.0,87.0,,88%,,Yes,No
+608,Student_608,,Female,81.0,73.0,50.0,78%,Master's,Yes,Yes
+609,Student_609,18.0,Female,97.0,95.0,100.0,88%,Bachelor's,Yes,Yes
+610,Student_610,,Female,,,88.0,77%,High School,Yes,No
+611,Student_611,18.0,Male,70.0,63.0,62.0,81%,Master's,Yes,Yes
+612,Student_612,18.0,Female,55.0,55.0,72.0,81%,Bachelor's,Yes,No
+613,Student_613,,Female,92.0,90.0,,97%,Bachelor's,Yes,Yes
+614,Student_614,18.0,Female,71.0,,97.0,80%,,Yes,No
+615,Student_615,18.0,Male,66.0,76.0,87.0,84%,Master's,No,Yes
+616,Student_616,18.0,Male,94.0,100.0,60.0,91%,Master's,Yes,Yes
+617,Student_617,17.0,Male,,89.0,99.0,89%,,No,No
+618,Student_618,16.0,Female,56.0,52.0,65.0,75%,,No,No
+619,Student_619,17.0,Female,53.0,69.0,54.0,89%,,Yes,Yes
+620,Student_620,18.0,Female,96.0,,,,,Yes,No
+621,Student_621,16.0,Female,60.0,83.0,50.0,100%,Master's,No,Yes
+622,Student_622,17.0,Male,81.0,,95.0,85%,Bachelor's,No,No
+623,Student_623,17.0,Female,72.0,84.0,68.0,90%,Bachelor's,No,No
+624,Student_624,17.0,Male,56.0,62.0,98.0,93%,,Yes,Yes
+625,Student_625,,Female,100.0,65.0,96.0,,,Yes,Yes
+626,Student_626,18.0,Female,91.0,61.0,,,,No,Yes
+627,Student_627,18.0,Female,64.0,85.0,82.0,89%,,No,Yes
+628,Student_628,16.0,Female,54.0,56.0,80.0,97%,Bachelor's,Yes,No
+629,Student_629,17.0,Male,52.0,86.0,87.0,87%,,No,Yes
+630,Student_630,18.0,Female,70.0,79.0,93.0,100%,High School,Yes,Yes
+631,Student_631,17.0,Male,56.0,77.0,61.0,88%,,Yes,No
+632,Student_632,18.0,Female,,60.0,74.0,94%,Bachelor's,Yes,Yes
+633,Student_633,17.0,Male,74.0,85.0,82.0,89%,High School,Yes,No
+634,Student_634,18.0,Female,54.0,71.0,57.0,96%,Bachelor's,Yes,Yes
+635,Student_635,16.0,Male,55.0,84.0,70.0,93%,Master's,Yes,No
+636,Student_636,17.0,Female,89.0,78.0,57.0,,High School,Yes,Yes
+637,Student_637,18.0,Female,95.0,70.0,81.0,76%,Bachelor's,No,Yes
+638,Student_638,16.0,Male,,70.0,95.0,80%,High School,No,No
+639,Student_639,16.0,Male,60.0,76.0,96.0,95%,Master's,No,No
+640,Student_640,18.0,Male,77.0,77.0,,96%,,No,No
+641,Student_641,17.0,Male,56.0,70.0,57.0,97%,Bachelor's,Yes,Yes
+642,Student_642,,Female,62.0,86.0,79.0,81%,High School,No,No
+643,Student_643,16.0,Female,85.0,74.0,69.0,88%,High School,No,No
+644,Student_644,16.0,Female,96.0,97.0,78.0,92%,Master's,No,Yes
+645,Student_645,18.0,Male,92.0,78.0,76.0,86%,Master's,No,No
+646,Student_646,,Male,65.0,75.0,77.0,,Bachelor's,No,Yes
+647,Student_647,,Female,,,54.0,99%,Master's,Yes,Yes
+648,Student_648,,Female,85.0,,80.0,88%,,No,Yes
+649,Student_649,18.0,Male,59.0,51.0,73.0,83%,Bachelor's,No,Yes
+650,Student_650,17.0,Male,,69.0,93.0,76%,,No,Yes
+651,Student_651,16.0,Female,,,56.0,77%,Bachelor's,Yes,Yes
+652,Student_652,18.0,Female,,63.0,83.0,96%,Bachelor's,Yes,No
+653,Student_653,,Female,90.0,51.0,55.0,87%,Bachelor's,No,Yes
+654,Student_654,16.0,Female,62.0,94.0,75.0,87%,High School,No,Yes
+655,Student_655,16.0,Female,,85.0,87.0,87%,Bachelor's,Yes,Yes
+656,Student_656,,Male,90.0,86.0,97.0,,High School,No,Yes
+657,Student_657,,Male,55.0,59.0,60.0,97%,Bachelor's,Yes,No
+658,Student_658,16.0,Female,57.0,,,85%,,No,No
+659,Student_659,16.0,Female,75.0,59.0,71.0,89%,High School,Yes,Yes
+660,Student_660,17.0,Male,92.0,73.0,75.0,77%,,No,Yes
+661,Student_661,17.0,Male,91.0,65.0,77.0,,Master's,Yes,No
+662,Student_662,18.0,Female,61.0,69.0,67.0,97%,High School,No,Yes
+663,Student_663,16.0,Male,74.0,,99.0,79%,High School,Yes,Yes
+664,Student_664,17.0,Male,78.0,63.0,67.0,83%,High School,No,No
+665,Student_665,16.0,Female,,96.0,91.0,80%,,No,Yes
+666,Student_666,,Female,66.0,80.0,72.0,94%,Bachelor's,No,No
+667,Student_667,17.0,Female,67.0,94.0,88.0,84%,High School,Yes,No
+668,Student_668,,Female,59.0,56.0,81.0,98%,Bachelor's,Yes,Yes
+669,Student_669,,Male,92.0,69.0,59.0,77%,Master's,No,No
+670,Student_670,,Male,,,56.0,75%,Bachelor's,Yes,Yes
+671,Student_671,18.0,Female,84.0,74.0,81.0,79%,High School,No,No
+672,Student_672,,Male,98.0,,90.0,80%,Bachelor's,No,No
+673,Student_673,18.0,Female,85.0,,51.0,76%,High School,Yes,Yes
+674,Student_674,16.0,Female,,72.0,,92%,High School,Yes,Yes
+675,Student_675,16.0,Female,83.0,77.0,,97%,,Yes,No
+676,Student_676,17.0,Female,84.0,57.0,,,Bachelor's,No,Yes
+677,Student_677,17.0,Male,80.0,64.0,61.0,91%,Bachelor's,No,Yes
+678,Student_678,18.0,Female,65.0,88.0,93.0,97%,,No,No
+679,Student_679,16.0,Male,55.0,90.0,69.0,78%,Bachelor's,Yes,No
+680,Student_680,17.0,Male,95.0,74.0,56.0,84%,Master's,No,No
+681,Student_681,17.0,Female,,,92.0,94%,,No,No
+682,Student_682,17.0,Female,83.0,70.0,99.0,,,No,Yes
+683,Student_683,16.0,Male,93.0,59.0,79.0,99%,Master's,Yes,No
+684,Student_684,17.0,Female,59.0,94.0,92.0,82%,,No,No
+685,Student_685,16.0,Female,98.0,53.0,82.0,82%,High School,No,No
+686,Student_686,,Female,60.0,75.0,71.0,75%,Master's,No,No
+687,Student_687,,Male,62.0,98.0,84.0,75%,High School,Yes,No
+688,Student_688,,Male,77.0,82.0,98.0,81%,Bachelor's,No,Yes
+689,Student_689,18.0,Male,,,,77%,High School,Yes,Yes
+690,Student_690,16.0,Female,62.0,100.0,57.0,78%,High School,No,No
+691,Student_691,17.0,Female,90.0,58.0,70.0,96%,Bachelor's,No,Yes
+692,Student_692,18.0,Female,88.0,80.0,78.0,80%,Bachelor's,No,Yes
+693,Student_693,18.0,Female,96.0,53.0,52.0,,High School,Yes,No
+694,Student_694,,Male,54.0,66.0,92.0,85%,,Yes,No
+695,Student_695,16.0,Male,,,69.0,95%,,Yes,No
+696,Student_696,17.0,Female,85.0,99.0,60.0,81%,,Yes,Yes
+697,Student_697,18.0,Male,67.0,98.0,58.0,87%,Master's,Yes,No
+698,Student_698,17.0,Male,50.0,85.0,74.0,78%,Master's,Yes,No
+699,Student_699,,Male,89.0,75.0,57.0,78%,Bachelor's,Yes,Yes
+700,Student_700,16.0,Male,100.0,62.0,81.0,80%,,No,Yes
+701,Student_701,17.0,Female,76.0,97.0,93.0,,Bachelor's,No,No
+702,Student_702,17.0,Female,86.0,65.0,80.0,75%,Master's,No,Yes
+703,Student_703,18.0,Female,98.0,,60.0,89%,High School,Yes,No
+704,Student_704,17.0,Male,56.0,70.0,75.0,96%,,Yes,No
+705,Student_705,16.0,Male,86.0,86.0,87.0,95%,Bachelor's,Yes,Yes
+706,Student_706,16.0,Female,100.0,,89.0,76%,Bachelor's,Yes,Yes
+707,Student_707,17.0,Female,84.0,77.0,99.0,,,No,Yes
+708,Student_708,18.0,Male,76.0,62.0,70.0,84%,High School,No,No
+709,Student_709,18.0,Female,91.0,88.0,,90%,Bachelor's,Yes,Yes
+710,Student_710,,Female,88.0,99.0,58.0,78%,,Yes,No
+711,Student_711,16.0,Female,61.0,72.0,72.0,100%,Bachelor's,No,No
+712,Student_712,,Female,59.0,78.0,87.0,93%,High School,Yes,No
+713,Student_713,18.0,Female,93.0,78.0,,78%,,Yes,No
+714,Student_714,,Female,52.0,,71.0,95%,,Yes,Yes
+715,Student_715,18.0,Male,71.0,62.0,77.0,96%,Master's,No,No
+716,Student_716,,Female,53.0,59.0,72.0,99%,,No,Yes
+717,Student_717,,Female,67.0,55.0,53.0,85%,,Yes,No
+718,Student_718,16.0,Male,51.0,53.0,65.0,99%,Bachelor's,Yes,Yes
+719,Student_719,16.0,Female,100.0,89.0,69.0,85%,High School,No,Yes
+720,Student_720,,Female,67.0,68.0,94.0,96%,Master's,Yes,No
+721,Student_721,18.0,Male,94.0,,,85%,,No,No
+722,Student_722,18.0,Female,64.0,57.0,71.0,,Bachelor's,No,No
+723,Student_723,16.0,Female,97.0,80.0,84.0,89%,Master's,Yes,No
+724,Student_724,16.0,Male,70.0,,79.0,95%,High School,Yes,Yes
+725,Student_725,17.0,Male,76.0,84.0,77.0,91%,High School,Yes,Yes
+726,Student_726,16.0,Female,55.0,84.0,76.0,75%,High School,No,No
+727,Student_727,18.0,Male,63.0,66.0,94.0,94%,Master's,No,No
+728,Student_728,16.0,Female,76.0,89.0,51.0,78%,Master's,No,Yes
+729,Student_729,17.0,Male,98.0,59.0,74.0,98%,High School,No,No
+730,Student_730,,Male,73.0,92.0,70.0,82%,Bachelor's,Yes,Yes
+731,Student_731,,Male,82.0,,81.0,76%,Master's,Yes,Yes
+732,Student_732,18.0,Male,54.0,92.0,93.0,90%,Bachelor's,Yes,No
+733,Student_733,17.0,Male,82.0,66.0,81.0,79%,High School,No,No
+734,Student_734,,Male,99.0,68.0,98.0,95%,High School,Yes,No
+735,Student_735,,Female,86.0,94.0,60.0,,Bachelor's,Yes,No
+736,Student_736,16.0,Female,,53.0,73.0,94%,High School,Yes,No
+737,Student_737,,Female,62.0,50.0,62.0,89%,Master's,Yes,Yes
+738,Student_738,18.0,Male,65.0,,100.0,85%,Bachelor's,Yes,No
+739,Student_739,,Female,,92.0,,85%,Bachelor's,Yes,No
+740,Student_740,18.0,Male,,92.0,63.0,99%,High School,Yes,No
+741,Student_741,18.0,Female,62.0,56.0,53.0,,Bachelor's,Yes,No
+742,Student_742,16.0,Female,79.0,,86.0,88%,Master's,No,No
+743,Student_743,17.0,Male,90.0,91.0,64.0,84%,High School,No,No
+744,Student_744,18.0,Male,93.0,74.0,55.0,82%,High School,Yes,Yes
+745,Student_745,,Male,,95.0,87.0,85%,,No,Yes
+746,Student_746,,Female,88.0,,,81%,High School,Yes,Yes
+747,Student_747,18.0,Female,80.0,88.0,54.0,96%,High School,No,No
+748,Student_748,,Female,72.0,61.0,83.0,100%,Master's,Yes,No
+749,Student_749,16.0,Female,66.0,79.0,63.0,98%,High School,Yes,No
+750,Student_750,,Male,94.0,95.0,54.0,87%,Master's,No,No
+751,Student_751,16.0,Female,,,69.0,80%,High School,No,Yes
+752,Student_752,18.0,Female,,83.0,69.0,75%,Master's,No,Yes
+753,Student_753,18.0,Female,,81.0,84.0,,Master's,Yes,Yes
+754,Student_754,18.0,Female,99.0,60.0,76.0,81%,,Yes,No
+755,Student_755,16.0,Female,64.0,,89.0,,Bachelor's,No,Yes
+756,Student_756,,Male,93.0,72.0,92.0,81%,Master's,No,Yes
+757,Student_757,16.0,Male,91.0,65.0,61.0,80%,,No,Yes
+758,Student_758,,Female,51.0,82.0,90.0,100%,Master's,Yes,No
+759,Student_759,,Female,99.0,53.0,61.0,82%,Bachelor's,Yes,Yes
+760,Student_760,16.0,Male,80.0,74.0,63.0,88%,High School,Yes,Yes
+761,Student_761,17.0,Female,91.0,51.0,97.0,84%,Master's,No,No
+762,Student_762,18.0,Female,50.0,67.0,67.0,81%,,Yes,Yes
+763,Student_763,,Male,88.0,71.0,84.0,80%,High School,Yes,No
+764,Student_764,,Female,69.0,92.0,99.0,84%,Bachelor's,No,No
+765,Student_765,16.0,Female,95.0,96.0,86.0,89%,High School,Yes,No
+766,Student_766,17.0,Female,77.0,93.0,53.0,81%,,Yes,Yes
+767,Student_767,18.0,Female,72.0,90.0,73.0,100%,,No,No
+768,Student_768,17.0,Female,63.0,76.0,65.0,86%,High School,Yes,Yes
+769,Student_769,18.0,Female,93.0,59.0,93.0,80%,Master's,Yes,Yes
+770,Student_770,,Male,89.0,69.0,77.0,88%,Bachelor's,No,Yes
+771,Student_771,,Female,56.0,71.0,54.0,98%,Bachelor's,No,Yes
+772,Student_772,16.0,Female,,58.0,76.0,79%,,No,No
+773,Student_773,16.0,Female,73.0,58.0,68.0,100%,High School,No,No
+774,Student_774,17.0,Male,88.0,93.0,66.0,99%,High School,Yes,Yes
+775,Student_775,17.0,Female,69.0,58.0,65.0,77%,Bachelor's,Yes,Yes
+776,Student_776,18.0,Male,80.0,95.0,57.0,84%,Bachelor's,No,Yes
+777,Student_777,16.0,Female,,58.0,51.0,79%,Bachelor's,Yes,Yes
+778,Student_778,,Male,90.0,99.0,69.0,80%,Bachelor's,Yes,No
+779,Student_779,16.0,Female,67.0,86.0,85.0,89%,Master's,No,Yes
+780,Student_780,17.0,Female,95.0,70.0,77.0,84%,,No,Yes
+781,Student_781,16.0,Female,91.0,,52.0,94%,Bachelor's,Yes,Yes
+782,Student_782,,Female,59.0,96.0,67.0,85%,Master's,Yes,No
+783,Student_783,16.0,Male,65.0,70.0,66.0,90%,Master's,No,Yes
+784,Student_784,17.0,Male,88.0,59.0,67.0,81%,Master's,No,No
+785,Student_785,,Female,70.0,98.0,61.0,,,Yes,Yes
+786,Student_786,18.0,Female,96.0,76.0,52.0,98%,High School,Yes,No
+787,Student_787,18.0,Male,,69.0,81.0,90%,,No,Yes
+788,Student_788,,Male,68.0,90.0,53.0,88%,Bachelor's,No,No
+789,Student_789,,Male,76.0,67.0,55.0,98%,Bachelor's,No,No
+790,Student_790,,Male,97.0,62.0,69.0,90%,High School,Yes,Yes
+791,Student_791,17.0,Male,,61.0,76.0,93%,Bachelor's,No,No
+792,Student_792,,Male,86.0,,92.0,,,Yes,No
+793,Student_793,17.0,Male,71.0,89.0,55.0,78%,High School,Yes,No
+794,Student_794,,Male,64.0,86.0,96.0,93%,High School,Yes,Yes
+795,Student_795,17.0,Male,90.0,88.0,65.0,99%,Bachelor's,No,Yes
+796,Student_796,17.0,Female,92.0,93.0,97.0,83%,Master's,Yes,No
+797,Student_797,16.0,Female,69.0,,57.0,99%,High School,Yes,Yes
+798,Student_798,18.0,Female,92.0,,87.0,91%,,No,No
+799,Student_799,,Male,61.0,58.0,83.0,95%,High School,Yes,Yes
+800,Student_800,18.0,Male,80.0,88.0,55.0,97%,,Yes,No
+801,Student_801,18.0,Male,66.0,91.0,57.0,,Master's,No,No
+802,Student_802,16.0,Male,85.0,74.0,70.0,88%,Bachelor's,Yes,No
+803,Student_803,18.0,Female,61.0,58.0,87.0,82%,Master's,No,No
+804,Student_804,18.0,Female,71.0,64.0,97.0,86%,Bachelor's,Yes,No
+805,Student_805,,Female,64.0,,77.0,96%,High School,No,Yes
+806,Student_806,17.0,Male,97.0,50.0,56.0,,Master's,Yes,No
+807,Student_807,,Female,76.0,76.0,67.0,79%,Master's,No,No
+808,Student_808,,Female,71.0,92.0,66.0,89%,Master's,Yes,Yes
+809,Student_809,18.0,Female,87.0,98.0,53.0,79%,High School,Yes,Yes
+810,Student_810,18.0,Male,57.0,61.0,73.0,94%,High School,Yes,Yes
+811,Student_811,,Male,90.0,78.0,57.0,96%,Bachelor's,No,Yes
+812,Student_812,,Male,89.0,81.0,77.0,75%,,Yes,No
+813,Student_813,18.0,Male,,79.0,65.0,77%,Master's,No,No
+814,Student_814,17.0,Male,82.0,77.0,100.0,87%,,No,No
+815,Student_815,17.0,Female,93.0,52.0,73.0,93%,Master's,No,Yes
+816,Student_816,,Male,69.0,74.0,73.0,77%,,No,No
+817,Student_817,17.0,Male,59.0,75.0,51.0,81%,Bachelor's,Yes,Yes
+818,Student_818,,Female,62.0,97.0,88.0,80%,High School,Yes,Yes
+819,Student_819,16.0,Female,86.0,84.0,,83%,,Yes,Yes
+820,Student_820,18.0,Male,79.0,95.0,53.0,91%,High School,Yes,No
+821,Student_821,,Female,95.0,83.0,100.0,96%,Master's,Yes,Yes
+822,Student_822,,Male,55.0,79.0,66.0,93%,Master's,No,Yes
+823,Student_823,,Male,90.0,52.0,69.0,88%,,Yes,Yes
+824,Student_824,17.0,Female,70.0,65.0,94.0,98%,,No,No
+825,Student_825,,Male,50.0,75.0,93.0,78%,Bachelor's,Yes,No
+826,Student_826,16.0,Female,63.0,52.0,65.0,99%,,No,Yes
+827,Student_827,17.0,Female,60.0,83.0,74.0,79%,Master's,No,No
+828,Student_828,18.0,Female,60.0,53.0,,81%,Master's,Yes,No
+829,Student_829,16.0,Female,98.0,78.0,66.0,87%,Master's,No,Yes
+830,Student_830,,Male,58.0,69.0,98.0,75%,High School,No,No
+831,Student_831,16.0,Female,90.0,68.0,63.0,90%,,Yes,Yes
+832,Student_832,,Female,77.0,77.0,60.0,,,Yes,No
+833,Student_833,16.0,Male,74.0,53.0,90.0,,Master's,No,No
+834,Student_834,17.0,Male,,59.0,99.0,91%,High School,Yes,No
+835,Student_835,,Female,96.0,91.0,100.0,84%,High School,No,No
+836,Student_836,17.0,Male,50.0,96.0,,80%,Bachelor's,No,Yes
+837,Student_837,16.0,Female,98.0,61.0,99.0,80%,High School,Yes,No
+838,Student_838,,Female,62.0,94.0,80.0,81%,Bachelor's,No,No
+839,Student_839,18.0,Male,,75.0,71.0,91%,High School,No,Yes
+840,Student_840,18.0,Male,,78.0,56.0,89%,Master's,Yes,Yes
+841,Student_841,,Female,64.0,,94.0,81%,,Yes,No
+842,Student_842,16.0,Female,72.0,95.0,54.0,76%,Bachelor's,Yes,Yes
+843,Student_843,18.0,Male,56.0,79.0,88.0,100%,,Yes,No
+844,Student_844,,Male,87.0,,85.0,83%,High School,Yes,Yes
+845,Student_845,18.0,Female,54.0,91.0,79.0,88%,Bachelor's,Yes,No
+846,Student_846,,Female,69.0,100.0,98.0,94%,,No,Yes
+847,Student_847,16.0,Female,79.0,96.0,,95%,,Yes,No
+848,Student_848,16.0,Male,88.0,57.0,90.0,84%,High School,Yes,Yes
+849,Student_849,17.0,Female,77.0,90.0,91.0,,Master's,Yes,Yes
+850,Student_850,18.0,Male,58.0,83.0,75.0,77%,,Yes,No
+851,Student_851,17.0,Male,81.0,96.0,69.0,93%,,Yes,Yes
+852,Student_852,16.0,Male,62.0,82.0,55.0,90%,,Yes,No
+853,Student_853,,Female,75.0,60.0,65.0,78%,High School,Yes,No
+854,Student_854,16.0,Female,,74.0,99.0,,High School,No,Yes
+855,Student_855,16.0,Male,58.0,,98.0,75%,Bachelor's,Yes,No
+856,Student_856,,Male,51.0,71.0,88.0,100%,High School,No,No
+857,Student_857,17.0,Female,60.0,92.0,100.0,78%,,Yes,No
+858,Student_858,18.0,Female,95.0,60.0,78.0,100%,,No,Yes
+859,Student_859,16.0,Male,52.0,61.0,97.0,,Bachelor's,No,No
+860,Student_860,16.0,Female,90.0,53.0,61.0,99%,,Yes,No
+861,Student_861,18.0,Female,84.0,69.0,70.0,90%,Master's,No,No
+862,Student_862,16.0,Female,88.0,78.0,62.0,85%,High School,Yes,Yes
+863,Student_863,18.0,Female,92.0,61.0,,85%,Master's,No,No
+864,Student_864,18.0,Male,51.0,58.0,75.0,85%,Master's,No,No
+865,Student_865,18.0,Female,,50.0,86.0,82%,,Yes,No
+866,Student_866,,Female,78.0,66.0,51.0,96%,Bachelor's,Yes,No
+867,Student_867,17.0,Male,85.0,,91.0,94%,,Yes,No
+868,Student_868,17.0,Male,94.0,81.0,64.0,,High School,No,Yes
+869,Student_869,,Male,94.0,50.0,79.0,85%,Master's,Yes,Yes
+870,Student_870,17.0,Female,50.0,81.0,94.0,75%,,No,No
+871,Student_871,17.0,Female,92.0,87.0,53.0,97%,High School,No,No
+872,Student_872,17.0,Male,83.0,79.0,77.0,79%,Bachelor's,Yes,Yes
+873,Student_873,16.0,Female,88.0,55.0,59.0,,,No,Yes
+874,Student_874,,Female,76.0,50.0,,91%,Bachelor's,No,Yes
+875,Student_875,17.0,Male,56.0,85.0,86.0,97%,Bachelor's,No,No
+876,Student_876,,Female,89.0,90.0,95.0,82%,Master's,No,No
+877,Student_877,17.0,Female,57.0,63.0,99.0,94%,High School,Yes,Yes
+878,Student_878,17.0,Male,81.0,,79.0,90%,,No,No
+879,Student_879,,Male,62.0,91.0,81.0,96%,High School,No,No
+880,Student_880,18.0,Male,83.0,59.0,95.0,95%,Master's,Yes,Yes
+881,Student_881,,Female,72.0,92.0,100.0,85%,,Yes,No
+882,Student_882,18.0,Male,68.0,88.0,97.0,,,No,No
+883,Student_883,16.0,Female,85.0,55.0,58.0,76%,Bachelor's,No,Yes
+884,Student_884,,Female,63.0,,63.0,98%,High School,No,Yes
+885,Student_885,18.0,Female,80.0,61.0,68.0,89%,Bachelor's,No,No
+886,Student_886,17.0,Female,50.0,68.0,62.0,90%,High School,Yes,No
+887,Student_887,16.0,Male,,94.0,76.0,94%,,Yes,No
+888,Student_888,,Male,,86.0,51.0,86%,Master's,Yes,Yes
+889,Student_889,18.0,Male,86.0,61.0,66.0,90%,Master's,Yes,No
+890,Student_890,18.0,Female,59.0,97.0,78.0,97%,Bachelor's,No,No
+891,Student_891,,Female,99.0,52.0,73.0,98%,High School,Yes,No
+892,Student_892,18.0,Male,96.0,,91.0,94%,Bachelor's,Yes,No
+893,Student_893,,Male,66.0,73.0,50.0,79%,High School,No,No
+894,Student_894,18.0,Male,79.0,54.0,70.0,93%,Master's,Yes,Yes
+895,Student_895,17.0,Male,68.0,85.0,75.0,97%,,Yes,No
+896,Student_896,,Male,53.0,,95.0,79%,High School,Yes,Yes
+897,Student_897,,Male,,57.0,77.0,77%,Master's,No,No
+898,Student_898,16.0,Female,52.0,67.0,66.0,96%,,No,No
+899,Student_899,17.0,Female,73.0,76.0,,89%,,Yes,No
+900,Student_900,,Male,70.0,94.0,53.0,89%,Bachelor's,Yes,Yes
+901,Student_901,18.0,Male,57.0,53.0,65.0,90%,Master's,No,No
+902,Student_902,18.0,Female,,96.0,72.0,82%,Bachelor's,Yes,No
+903,Student_903,18.0,Male,52.0,83.0,92.0,80%,High School,No,No
+904,Student_904,16.0,Female,,80.0,88.0,96%,High School,No,Yes
+905,Student_905,,Male,91.0,88.0,52.0,78%,,No,Yes
+906,Student_906,18.0,Female,72.0,95.0,,97%,Master's,No,No
+907,Student_907,16.0,Male,89.0,88.0,74.0,,Master's,Yes,Yes
+908,Student_908,16.0,Female,96.0,66.0,75.0,85%,Bachelor's,Yes,No
+909,Student_909,,Female,,89.0,58.0,99%,Bachelor's,No,Yes
+910,Student_910,18.0,Male,61.0,58.0,85.0,98%,Master's,No,Yes
+911,Student_911,17.0,Female,75.0,81.0,,90%,,No,Yes
+912,Student_912,18.0,Female,67.0,90.0,60.0,96%,,Yes,Yes
+913,Student_913,17.0,Male,94.0,61.0,71.0,79%,,No,Yes
+914,Student_914,17.0,Female,76.0,64.0,58.0,95%,Bachelor's,No,Yes
+915,Student_915,18.0,Female,60.0,62.0,,77%,,No,No
+916,Student_916,17.0,Male,94.0,,77.0,85%,Master's,Yes,No
+917,Student_917,16.0,Male,60.0,,57.0,93%,,Yes,No
+918,Student_918,16.0,Male,87.0,57.0,58.0,94%,High School,Yes,No
+919,Student_919,18.0,Male,86.0,63.0,67.0,,Bachelor's,No,No
+920,Student_920,,Female,61.0,76.0,77.0,97%,High School,Yes,Yes
+921,Student_921,16.0,Female,99.0,71.0,66.0,98%,Bachelor's,No,No
+922,Student_922,18.0,Male,51.0,90.0,98.0,95%,Master's,Yes,Yes
+923,Student_923,17.0,Male,96.0,90.0,83.0,88%,Master's,No,Yes
+924,Student_924,16.0,Male,58.0,68.0,60.0,82%,High School,Yes,No
+925,Student_925,18.0,Female,81.0,54.0,81.0,84%,Bachelor's,No,No
+926,Student_926,18.0,Male,76.0,82.0,59.0,,,Yes,Yes
+927,Student_927,,Female,54.0,99.0,92.0,,Bachelor's,No,Yes
+928,Student_928,17.0,Female,70.0,,78.0,81%,,No,Yes
+929,Student_929,17.0,Male,,71.0,,78%,Master's,Yes,No
+930,Student_930,17.0,Male,83.0,86.0,64.0,79%,High School,Yes,Yes
+931,Student_931,18.0,Female,86.0,51.0,80.0,87%,,No,No
+932,Student_932,18.0,Female,64.0,62.0,95.0,75%,Master's,No,No
+933,Student_933,17.0,Female,92.0,71.0,57.0,93%,High School,No,No
+934,Student_934,18.0,Female,83.0,80.0,81.0,87%,,Yes,No
+935,Student_935,,Female,94.0,52.0,,85%,Bachelor's,Yes,Yes
+936,Student_936,18.0,Female,77.0,80.0,95.0,100%,,No,Yes
+937,Student_937,18.0,Male,65.0,79.0,79.0,100%,High School,No,No
+938,Student_938,16.0,Male,92.0,84.0,96.0,96%,High School,No,Yes
+939,Student_939,,Female,74.0,79.0,57.0,82%,Bachelor's,No,No
+940,Student_940,16.0,Male,85.0,76.0,63.0,75%,Bachelor's,No,Yes
+941,Student_941,17.0,Male,89.0,53.0,61.0,89%,,Yes,Yes
+942,Student_942,17.0,Female,,69.0,97.0,84%,Bachelor's,No,No
+943,Student_943,,Male,60.0,93.0,67.0,90%,,No,No
+944,Student_944,18.0,Male,80.0,84.0,92.0,79%,Bachelor's,Yes,Yes
+945,Student_945,16.0,Male,60.0,,87.0,79%,Master's,Yes,Yes
+946,Student_946,,Male,,71.0,50.0,100%,Bachelor's,Yes,No
+947,Student_947,16.0,Female,65.0,100.0,86.0,76%,Bachelor's,No,No
+948,Student_948,18.0,Female,67.0,59.0,54.0,84%,High School,No,Yes
+949,Student_949,16.0,Female,,51.0,81.0,97%,Master's,Yes,No
+950,Student_950,,Female,91.0,74.0,71.0,97%,Master's,Yes,No
+951,Student_951,18.0,Male,65.0,60.0,,95%,High School,No,Yes
+952,Student_952,18.0,Male,,74.0,93.0,90%,Master's,No,No
+953,Student_953,,Female,86.0,57.0,73.0,87%,Master's,No,Yes
+954,Student_954,18.0,Female,81.0,98.0,56.0,,High School,Yes,No
+955,Student_955,16.0,Male,57.0,70.0,59.0,79%,,No,Yes
+956,Student_956,17.0,Female,97.0,67.0,,81%,,No,No
+957,Student_957,,Male,56.0,81.0,95.0,100%,,No,No
+958,Student_958,16.0,Male,52.0,73.0,79.0,98%,,No,Yes
+959,Student_959,18.0,Male,50.0,69.0,67.0,,Master's,Yes,No
+960,Student_960,17.0,Female,100.0,69.0,50.0,80%,Master's,Yes,Yes
+961,Student_961,16.0,Male,89.0,73.0,52.0,98%,,No,Yes
+962,Student_962,,Male,82.0,99.0,78.0,96%,Master's,No,No
+963,Student_963,18.0,Male,91.0,55.0,96.0,80%,High School,No,Yes
+964,Student_964,,Male,71.0,51.0,86.0,92%,Bachelor's,Yes,No
+965,Student_965,16.0,Male,53.0,82.0,53.0,88%,,No,No
+966,Student_966,17.0,Male,79.0,71.0,68.0,86%,,No,No
+967,Student_967,16.0,Female,99.0,96.0,53.0,87%,Master's,Yes,No
+968,Student_968,16.0,Male,80.0,69.0,85.0,,Bachelor's,No,Yes
+969,Student_969,18.0,Male,73.0,59.0,74.0,84%,Bachelor's,Yes,Yes
+970,Student_970,,Male,57.0,56.0,,81%,,No,Yes
+971,Student_971,16.0,Female,,83.0,65.0,92%,,Yes,Yes
+972,Student_972,16.0,Female,50.0,58.0,75.0,79%,Master's,No,No
+973,Student_973,17.0,Male,90.0,52.0,,100%,,No,Yes
+974,Student_974,17.0,Male,68.0,95.0,60.0,100%,Master's,Yes,Yes
+975,Student_975,,Male,73.0,57.0,75.0,,High School,No,No
+976,Student_976,,Male,52.0,,98.0,84%,High School,Yes,No
+977,Student_977,18.0,Female,81.0,93.0,59.0,80%,High School,Yes,No
+978,Student_978,,Male,95.0,55.0,81.0,89%,High School,No,No
+979,Student_979,17.0,Female,76.0,52.0,97.0,84%,High School,No,No
+980,Student_980,,Female,89.0,99.0,69.0,81%,,Yes,No
+981,Student_981,16.0,Male,57.0,69.0,88.0,98%,High School,No,Yes
+982,Student_982,,Female,75.0,,92.0,95%,,Yes,No
+983,Student_983,,Male,100.0,90.0,,,High School,No,No
+984,Student_984,18.0,Male,71.0,70.0,62.0,93%,,No,No
+985,Student_985,16.0,Female,76.0,68.0,74.0,100%,High School,No,No
+986,Student_986,18.0,Female,,70.0,86.0,79%,Master's,No,No
+987,Student_987,17.0,Female,93.0,92.0,55.0,88%,,Yes,Yes
+988,Student_988,,Male,99.0,59.0,73.0,80%,Bachelor's,Yes,No
+989,Student_989,,Male,79.0,57.0,77.0,78%,Bachelor's,Yes,No
+990,Student_990,17.0,Female,82.0,,55.0,90%,,Yes,Yes
+991,Student_991,18.0,Female,81.0,82.0,,76%,,Yes,Yes
+992,Student_992,16.0,Male,,84.0,79.0,91%,High School,Yes,No
+993,Student_993,18.0,Female,85.0,70.0,91.0,93%,Bachelor's,Yes,No
+994,Student_994,18.0,Female,87.0,95.0,59.0,79%,,Yes,No
+995,Student_995,16.0,Female,82.0,86.0,83.0,87%,High School,Yes,Yes
+996,Student_996,,Female,61.0,54.0,83.0,78%,Master's,No,Yes
+997,Student_997,18.0,Female,61.0,71.0,,90%,,No,No
+998,Student_998,17.0,Male,58.0,53.0,55.0,94%,,Yes,No
+999,Student_999,16.0,Female,92.0,80.0,80.0,95%,,Yes,Yes
+1000,Student_1000,,Female,70.0,53.0,58.0,99%,High School,Yes,Yes
