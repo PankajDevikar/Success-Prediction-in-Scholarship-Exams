@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
     name="scholarship-prediction",
     version="0.1",
-    author="Minal Madankar Devikar",
-    author_email="meenal.madankar@gmail.com", 
+    author="Pankaj Devikar",
+    author_email="pankaj.devikar@gmail.com", 
     description="A Streamlit app for predicting scholarship status based on features.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/minalmmm/Success-Prediction-in-Scholarship-Exams.git", 
+    url="https://github.com/PankajDevikar/Success-Prediction-in-Scholarship-Exams.git", 
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
